@@ -6,4 +6,4 @@ Beberapa hal yang dapat di lakukan dalam aplikasi ini :
 - Mengubah catatan
 - Menghapus catatan
 
-Terima kasih kepada Haerul Muttaqin yang telah memberikan tutorial MVP tersebut.
+Tugas ini di buat untuk pengganti UTS Aplikasi Koumputasi Bergerak
